@@ -22,7 +22,6 @@ function startup() {
 }
 function startupDesktop() {
 	document.getElementById('output').innerHTML += `
-		<p class="choiceText" onclick="window.location.href='no'">Click here for the mobile version!</p>
 	`;
 	writeScene("start");
 }

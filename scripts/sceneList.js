@@ -9,7 +9,7 @@ function writeScene(scene) {
 				</div>
 				؜
 				<div class="disclaimer">
-					<p class = "centeredText">Disclaimer:<br>These games feature erotic Lolicon material depicting Loli sex. Most if not all of our games will have Loli Sex.</p>
+					<p class = "centeredText">Disclaimer:<br>These games feature erotic Lolicon material depicting Loli sex. Most if not all of our games will have Loli Sex and Loli's Engaging is lewd and erotic actions.</p>
 					<p class = "centeredText">If you'd like to discuss the games here, or want to hang out with people like me, Shadow, or Trinity, consider popping into the <a href="https://discord.gg/V2R7YvZVsV">discord server</a>. You can opt into release notifications and it's the easiest way to voice feedback about the games.</p>
 				</div>
 				<div class="gridNotGames" id="NotGames">
@@ -19,8 +19,10 @@ function writeScene(scene) {
 					<div class="nonGameContainer" id="Developers">
 						<p style="font-size: 150%">Developers:</p>
 						<a href = "https://twitter.com/R34Robloxian">Porn Game Studios</a><br>
+						<p style="font-size: 150%"></p>
 						<a href = "https://twitter.com/DaddysCumSlu_t">ELIZABETH</a><br>
-						<p>Background Artist</p>
+						<p style="font-size: 150%"></p>
+						<p>[Insert Background Artist Here]</p>
 					</div>
 				</div>
 				<hr>
