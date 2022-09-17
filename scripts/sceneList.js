@@ -10,7 +10,6 @@ function writeScene(scene) {
 				؜
 				<div class="disclaimer">
 					<p class = "centeredText">Disclaimer:<br>These games feature erotic Lolicon material depicting Loli sex. Most if not all of our games will have Loli Sex and Loli's Engaging is lewd and erotic actions.</p>
-					<p class = "centeredText">If you'd like to discuss the games here, or want to hang out with people like me, Shadow, or Trinity, consider popping into the <a href="https://discord.gg/V2R7YvZVsV">discord server</a>. You can opt into release notifications and it's the easiest way to voice feedback about the games.</p>
 				</div>
 				<div class="gridNotGames" id="NotGames">
 					<div class="nonGameContainer" id="newsFeed">
