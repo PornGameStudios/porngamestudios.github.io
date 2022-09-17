@@ -18,9 +18,9 @@ function writeScene(scene) {
 					</div>
 					<div class="nonGameContainer" id="Developers">
 						<p style="font-size: 150%">Developers:</p>
-						<p>Alexander192</p>
-						<p>Shadow</p>
-						<p>TrinityRR34</p>
+						<a href = "https://twitter.com/R34Robloxian">Porn Game Studios</a><br>
+						<a href = "https://twitter.com/DaddysCumSlu_t">ELIZABETH</a><br>
+						<p>Background Artist</p>
 					</div>
 				</div>
 				<hr>
