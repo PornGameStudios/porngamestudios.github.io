@@ -7,11 +7,12 @@ var slideShow = [];
 localStorage.setItem("indexVisited","indexVisited");
 
 var games =[
-	{index: "LU", title: "Loli Universe", sponsor: ""},
+	{index: "NA", title: "NAME NOT AVALIBLE YET!", sponsor: ""},
 ];
 
 var news =[
 	{date: "9/17/2022", game: "NaN", headline: "Website", link: "porngamestudios.github.io", text: "Official Launch"},
+	{date: "10/3/2022", game: "NA", headline: "NA", link: "porngamestudios.github.io/", text: "Official Launch"},
 ];
 
 var gamesAlreadyListed = "";

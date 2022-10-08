@@ -32,13 +32,13 @@ function writeScene(scene) {
 			generateNews();
 			break;
 		}
-		case "LU": {
+		case "NA": {
 			slideShow = [
-				"scripts/images/LU.png",
+				"scripts/images/NA.png",
 
 			];
-			writeSlideshow("scripts/images/LU.png");
-			writeText("Loli Universe");
+			writeSlideshow("scripts/images/NA.png");
+			writeText("NAME UNAVALIBLE");
 			writeText("THis is a WIP game that is based around Fucking Loli's.");
 			//writeText("Dom route tags: Incest (optionally non blood-related), Mind Control, Sluttification, Degradation, Exhibitionism, Watersports (optional, not yet implemented)");
 			document.getElementById('output').innerHTML +=`
