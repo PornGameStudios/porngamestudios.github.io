@@ -44,12 +44,12 @@ function generateNews() {
 			console.log("Attempting to write news entry "+news[x].game+news[x].text);
 			if (games[y].index == news[x].game && gamesAlreadyListed.includes(news[x].game) == false) {
 				if (gamesAlreadyListed == "") {
-					document.getElementById('wrapperBG').style.backgroundImage = "url(images/"+news[x].game+".png)";
+					document.getElementById('wrapperBG').style.backgroundImage = "url(scripts/images/"+news[x].game+".png)";
 				}
 				gamesAlreadyListed += games[y].index;
 				document.getElementById('noodleGames').innerHTML += `
 					<div class="gameContainer" onclick="sceneTransition('`+games[y].index+`')">
-						<img class="bigPicture" src="images/`+games[y].index+`.png">
+						<img class="bigPicture" src="scripts/images/`+games[y].index+`.png">
 						<div id = "game`+games[y].index+`" class="gameTitle">
 							<p class="gameTitleText">`+games[y].title+`</p>
 						</div>
@@ -57,7 +57,7 @@ function generateNews() {
 				`;
 				if (games[y].sponsor != "") {
 					document.getElementById('game'+games[y].index).innerHTML += `
-						<img class="sponsor" src="images/greenCrown.png">
+						<img class="sponsor" src="scripts/images/greenCrown.png">
 					`;
 				}
 			}
@@ -82,8 +82,8 @@ function writeBig (img) {
 function writeSlideshow(img){
 	document.getElementById('output').innerHTML += `
 	<div style="display: block;margin: auto;width:205.4px">
-		<img src="images/leftArrow.png" onclick="slideshowLeft()">
-		<img src="images/rightArrow.png" onclick="slideshowRight()">
+		<img src="scripts/images/leftArrow.png" onclick="slideshowLeft()">
+		<img src="scripts/images/rightArrow.png" onclick="slideshowRight()">
 	</div>
 	<img id="slideshowImg" class="bigPicture" src="` + img + `">
 	<br>
