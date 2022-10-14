@@ -19,9 +19,11 @@ function writeScene(scene) {
 						<p style="font-size: 150%">Developers:</p>
 						<a href = "https://twitter.com/R34Robloxian">Porn Game Studios</a><br>
 						<p style="font-size: 150%"></p>
-						<a href = "https://twitter.com/DaddysCumSlu_t">ELIZABETH</a><br>
+						<p>[Insert Character Artist Here]
 						<p style="font-size: 150%"></p>
 						<p>[Insert Background Artist Here]</p>
+						<p style="font-size: 150%"></p>
+						<p>[Insert Character Developer Here]</p>
 					</div>
 				</div>
 				<hr>
